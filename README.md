@@ -63,6 +63,3 @@ InstallmentSaleDialog.java: المعالج الخاص بإعداد خطط الت
 
 سيقوم النظام تلقائياً بإنشاء قاعدة البيانات inventory.db عند التشغيل الأول.
 
-
-
-Copied from: Google Gemini - <https://gemini.google.com/app/e42500b163f89d6d>
